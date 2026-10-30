@@ -1,0 +1,232 @@
+{
+  "meta": {
+    "name": "Fatima Hamayyun",
+    "role": "BS Information Technology Graduate",
+    "title": "Fatima Hamayyun — Portfolio | BS Information Technology",
+    "description": "Portfolio of Fatima Hamayyun: BS Information Technology graduate specializing in IoT Systems, Python, Web Engineering, and Applied Data Intelligence.",
+    "location": "Gujranwala, Punjab, Pakistan",
+    "phone": "0326 9662955",
+    "email": "fatimaah2310@gmail.com",
+    "github": "https://github.com/fatimah-codes",
+    "linkedin": "https://www.linkedin.com/in/fatima-95b55722a",
+    "cv_file": "assets/Fatima_Hamayyun_CV.pdf",
+    "status": "AVAILABLE FOR HIRE / ENTRY-LEVEL ROLES"
+  },
+  "summary": "Recent BS Information Technology graduate with a strong foundation in IoT embedded systems, Python development, web technologies, and data documentation. Combines technical capability (ESP32, Firebase, Python, Web) with proven entrepreneurial initiative (founder of an e-commerce brand) and exceptional cross-functional communication honed through elite institutional internships at ISPR and Police Line.",
+  "metrics": [
+    { "label": "DEGREE CGPA", "val": "3.41" },
+    { "label": "COMPLETED PROJECTS", "val": "04" },
+    { "label": "INSTITUTIONAL INTERNSHIPS", "val": "02" },
+    { "label": "SERP RANKED ARTICLES", "val": "TOP 1" }
+  ],
+  "tags": ["ALL", "IOT", "PYTHON", "WEB DEV", "FIREBASE", "E-COMMERCE", "CONTENT", "DATA & AI"],
+  "projects": [
+    {
+      "id": "ems",
+      "title": "Electro Monitoring System (EMS)",
+      "category": "IOT",
+      "tag": "IOT",
+      "year": "2025 - 2026",
+      "context": "Academic Final Year Project (GC Faisalabad)",
+      "stack": "ESP32 • PZEM-004T • FIREBASE • WEB DASHBOARD • IEEE",
+      "short_desc": "Hardware-software IoT platform measuring electrical parameters in real-time with Firebase synchronization, interactive analytics, and IEEE-standard documentation.",
+      "full_desc": "A comprehensive IoT smart energy monitoring platform designed to measure voltage, current, active power, and cumulative energy consumption with high precision. Built using an ESP32 microcontroller interfaced with PZEM-004T electrical sensors, sending real-time telemetry to Firebase Realtime Database with Firebase Authentication. Developed a responsive web dashboard for end-users to inspect consumption trends and prevent overload incidents. Authored full IEEE-standard engineering specifications, UML use cases, class diagrams, and sequence flows.",
+      "bullets": [
+        "Built hardware interface using ESP32 microcontroller and PZEM-004T sensors to capture voltage, current, and energy consumption in real time.",
+        "Architected cloud backend utilizing Firebase Realtime Database and Firebase Authentication for secure, sub-second telemetry sync.",
+        "Engineered an interactive web analytics dashboard providing live visual feedback and consumption trend forecasting.",
+        "Produced comprehensive project documentation following IEEE standards, including UML class, sequence, and component diagrams."
+      ],
+      "specs": [
+        { "name": "HARDWARE CONTROLLER", "val": "ESP32 Dual-Core Tensilica Xtensa 32-bit" },
+        { "name": "ENERGY TRANSDUCER", "val": "PZEM-004T V3.0 (AC 80-260V / 100A)" },
+        { "name": "CLOUD ARCHITECTURE", "val": "Firebase Realtime DB & Auth" },
+        { "name": "DOCUMENTATION PROTOCOL", "val": "IEEE 830 / UML 2.5 Specification" }
+      ],
+      "visual_type": "iot_pulse",
+      "link": "https://github.com/fatimah-codes",
+      "github": "https://github.com/fatimah-codes"
+    },
+    {
+      "id": "shopify",
+      "title": "Shopify E-Commerce Storefront",
+      "category": "E-COMMERCE",
+      "tag": "E-COMMERCE",
+      "year": "2022 - 2023",
+      "context": "Founder & Operational Director",
+      "stack": "SHOPIFY • STOREFRONT UX • TIKTOK ADS • FULFILLMENT",
+      "short_desc": "Self-directed e-commerce enterprise covering brand identity, custom storefront setup, targeted social advertising, and supply chain fulfillment.",
+      "full_desc": "Founded and operated an independent dropshipping e-commerce brand from concept to launch. Designed and configured high-converting storefront UX, implemented catalog navigation, and coordinated product procurement. Planned, launched, and managed targeted paid marketing campaigns on TikTok to drive targeted customer traffic and conversion. Handled customer support inquiries, dispute resolution, payment gateways, and end-to-end supplier order fulfillment.",
+      "bullets": [
+        "Launched and scaled an independent Shopify business from ground up, architecting brand theme and storefront layout.",
+        "Executed high-ROI paid social advertising campaigns on TikTok to drive targeted inbound buyer traffic.",
+        "Supervised international supplier logistics, daily inventory sync, and order fulfillment workflows.",
+        "Provided responsive customer service, resolving inquiries and managing customer feedback retention."
+      ],
+      "specs": [
+        { "name": "COMMERCE PLATFORM", "val": "Shopify Liquid & Storefront Engine" },
+        { "name": "ACQUISITION CHANNEL", "val": "TikTok Paid Ads & Social Funnels" },
+        { "name": "OPERATIONAL ROLE", "val": "Founder & Sole Operator" },
+        { "name": "LIFECYCLE", "val": "Product Research to Post-Sale Support" }
+      ],
+      "visual_type": "commerce_gradient",
+      "link": "https://github.com/fatimah-codes",
+      "github": "https://github.com/fatimah-codes"
+    },
+    {
+      "id": "techno-pixels",
+      "title": "Techno Pixels Technical Content",
+      "category": "CONTENT",
+      "tag": "CONTENT",
+      "year": "2023 - 2024",
+      "context": "Remote Technical Writer & SEO Specialist",
+      "stack": "TECHNICAL WRITING • SEO ARCHITECTURE • GOOGLE SERP",
+      "short_desc": "In-depth technical content production and search engine optimization, achieving multiple top organic rankings on Google search.",
+      "full_desc": "Researched and produced technical articles and guides on emerging software tools, IT infrastructure, and web applications for Techno Pixels. Conducted semantic search keyword research, optimized on-page content structures, and formatted technical documentation to maximize search engine indexing and readability. Multiple published technical articles achieved top organic rankings on Google SERP results, driving sustained organic search traffic.",
+      "bullets": [
+        "Authored clear, authoritative technical content explaining complex IT and web concepts to technical audiences.",
+        "Engineered on-page SEO strategies including keyword taxonomy, internal linking, and meta schemas.",
+        "Successfully achieved first-page Google search rankings for competitive technical keywords.",
+        "Collaborated remotely with editors and developers to maintain a consistent corporate editorial schedule."
+      ],
+      "specs": [
+        { "name": "DOMAINS COVERED", "val": "Web Tech, Cloud Tools & Information Systems" },
+        { "name": "SEARCH ENGINE PERFORMANCE", "val": "Multiple Articles Ranked on Google Page 1" },
+        { "name": "METHODOLOGY", "val": "Keyword Clustering & Search Intent Analysis" },
+        { "name": "ENGAGEMENT", "val": "Remote Technical Publication" }
+      ],
+      "visual_type": "content_matrix",
+      "link": "https://github.com/fatimah-codes",
+      "github": "https://github.com/fatimah-codes"
+    },
+    {
+      "id": "data-ai",
+      "title": "Data Analytics & Applied AI Systems",
+      "category": "DATA & AI",
+      "tag": "DATA & AI",
+      "year": "2026",
+      "context": "Specialization & Engineering Workflows",
+      "stack": "PYTHON • DATA ANALYTICS • APPLIED AI • EXCEL",
+      "short_desc": "Applied data processing pipelines and exploratory predictive workflows leveraging Python, statistical methods, and AI tools.",
+      "full_desc": "Ongoing specialization combining modern data analysis methodologies with applied artificial intelligence. Building practical Python automation workflows using Pandas, NumPy, and visualization libraries to ingest, clean, and analyze structured datasets. Leveraging applied AI models for pattern detection, data classification, and automated reporting to transform raw operational metrics into actionable executive decisions.",
+      "bullets": [
+        "Engineering Python scripts for automated dataset cleaning, aggregation, and anomaly detection.",
+        "Applying exploratory data analysis (EDA) techniques to model performance metrics and usage data.",
+        "Integrating modern AI models and prompt pipelines to automate documentation and technical reporting.",
+        "Combining advanced MS Excel modeling with Python automation for dependable data verification."
+      ],
+      "specs": [
+        { "name": "CORE LANGUAGE", "val": "Python 3.x (Pandas, NumPy, Matplotlib)" },
+        { "name": "APPLICATION FOCUS", "val": "Predictive Modeling & Operational Automation" },
+        { "name": "ANALYTICAL TOOLING", "val": "Advanced Excel & Statistical Summaries" },
+        { "name": "CURRENT PURSUIT", "val": "Continuous AI Systems Specialization" }
+      ],
+      "visual_type": "ai_constellation",
+      "link": "https://github.com/fatimah-codes",
+      "github": "https://github.com/fatimah-codes"
+    }
+  ],
+  "education": [
+    {
+      "degree": "BS Information Technology",
+      "institution": "Superior College (GC Faisalabad)",
+      "year": "2022 - 2026",
+      "cgpa": "3.41",
+      "details": "Graduated with strong academic standing (CGPA: 3.41). Core coursework covered Software Engineering, Database Systems, Computer Networks, Internet of Things (IoT), and Information Security."
+    },
+    {
+      "degree": "ICS (Intermediate in Computer Science)",
+      "institution": "Superior College, Gujranwala",
+      "year": "2020 - 2022",
+      "details": "Built foundational competencies in Computer Science, Applied Mathematics, and Physics."
+    }
+  ],
+  "skills": {
+    "technical": [
+      { "name": "Python", "desc": "Core language for data processing, scripting, and automation." },
+      { "name": "HTML5", "desc": "Semantic markup, modern layout architecture." },
+      { "name": "CSS3", "desc": "Modern responsive styling, flexbox, CSS grid, animations." },
+      { "name": "Bootstrap", "desc": "Rapid component-based responsive UI frameworks." },
+      { "name": "MS Office (Word, Excel, PowerPoint)", "desc": "Advanced spreadsheet data modeling, executive reporting, presentation decks." }
+    ],
+    "learning": [
+      { "name": "Data Analytics", "desc": "Statistical exploration, data pipelines, and quantitative decision-making." },
+      { "name": "Applied AI", "desc": "LLM integrations, prompt engineering, and machine learning models." }
+    ],
+    "soft": [
+      { "name": "Customer Service", "desc": "Client relations, dispute resolution, and stakeholder support from e-commerce." },
+      { "name": "Problem-Solving", "desc": "Hardware sensor debugging, circuit troubleshooting, and systematic root-cause analysis." },
+      { "name": "Teamwork", "desc": "Collaborative group workflows practiced at ISPR and Police Line environments." },
+      { "name": "Quick Learner", "desc": "Rapidly assimilating new frameworks, SDKs, and software architectures." },
+      { "name": "Fast Adaptability", "desc": "Agile transition across technical domains from embedded hardware to web development." }
+    ]
+  },
+  "experience": [
+    {
+      "role": "Summer Intern",
+      "organization": "ISPR (Inter-Services Public Relations)",
+      "period": "2026",
+      "context": "Professional Corporate Communications & Teamwork",
+      "bullets": [
+        "Collaborated with a cross-functional team on assigned deliverables in a prestigious national institution.",
+        "Participated in high-level strategic group discussions on current affairs, refining analytical, presentation, and team coordination capabilities.",
+        "Demonstrated strong discipline, attention to protocol, and professional communication standards."
+      ]
+    },
+    {
+      "role": "Intern",
+      "organization": "Police Line",
+      "period": "2025",
+      "context": "Public Coordination & Institutional Operations",
+      "bullets": [
+        "Strengthened communication and teamwork skills by coordinating daily with administrative staff and the public in a structured, discipline-focused environment.",
+        "Participated in structured group discussions on national current affairs, building heightened awareness of social and administrative processes."
+      ]
+    },
+    {
+      "role": "Lead Hardware/Software Developer — Final Year Project",
+      "organization": "Electro Monitoring System (EMS)",
+      "period": "2025 - 2026",
+      "context": "Academic Capstone (Superior College / GC Faisalabad)",
+      "bullets": [
+        "Engineered real-time smart electricity monitoring system combining ESP32 microcontrollers and PZEM-004T AC power sensors.",
+        "Connected embedded hardware to Google Firebase Realtime Database for sub-second telemetry logging and user authentication.",
+        "Built responsive web analytics dashboard enabling users to track live power usage, prevent overages, and optimize utility costs.",
+        "Authored comprehensive IEEE-compliant documentation, functional specifications, and UML diagram portfolios."
+      ]
+    },
+    {
+      "role": "Remote Technical Content Specialist",
+      "organization": "Techno Pixels",
+      "period": "2023 - 2024",
+      "context": "Digital Publication & Search Engine Ranking",
+      "bullets": [
+        "Wrote technical content for the corporate website covering emerging computing and web technologies.",
+        "Researched and integrated SEO methodologies that earned several blog posts top organic rankings on Google Search."
+      ]
+    },
+    {
+      "role": "Founder & E-Commerce Operator",
+      "organization": "Shopify Dropshipping Store",
+      "period": "2022 - 2023",
+      "context": "Commercial Entrepreneurship & Growth",
+      "bullets": [
+        "Launched and operated an end-to-end e-commerce venture, managing product curation, pricing, and storefront design.",
+        "Spearheaded paid advertising campaigns on TikTok, generating conversions and driving targeted shopper traffic.",
+        "Managed daily logistics, supplier communications, dispute resolution, and order fulfillment."
+      ]
+    }
+  ],
+  "languages": [
+    { "name": "English", "proficiency": "Fluent / Professional" },
+    { "name": "Urdu", "proficiency": "Native" }
+  ],
+  "connect": {
+    "email": "fatimaah2310@gmail.com",
+    "phone": "0326 9662955",
+    "location": "Gujranwala, Punjab, Pakistan",
+    "github": "https://github.com/fatimah-codes",
+    "linkedin": "https://www.linkedin.com/in/fatima-95b55722a",
+    "cv_download": "assets/Fatima_Hamayyun_CV.pdf"
+  }
+}
